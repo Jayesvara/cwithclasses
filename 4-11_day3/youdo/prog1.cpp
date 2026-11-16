@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int speed=12;
+    int time=4;
+    int dis=speed*time;
+    cout<<"The distance is"<<dis;
+}
