@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int fulltiles=0;
+    int facktor=1;
+    int found=true;
+    while (found){
+        p
+}
